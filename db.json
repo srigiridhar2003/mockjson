@@ -8,7 +8,7 @@
         "description" : "Creamy, rich tomato-based curry with tender chicken pieces.",
         "time" : 30 ,
         "rating" : 3.5 , 
-        "count " : 466
+        "count" : 466
     },
     {
         "id": 2 ,
@@ -30,7 +30,7 @@
         "description" : "Creamy, rich tomato-based curry with tender chicken pieces.",
         "time" : 45 ,
         "rating" : 3.0 , 
-        "count " : 122
+        "count" : 122
     },
     {
         "id": 4 ,
@@ -41,7 +41,7 @@
         "description" : "Creamy, rich tomato-based curry with tender chicken pieces.",
         "time" :15 ,
         "rating" : 4.1 , 
-        "count " : 65
+        "count" : 65
     },
     {
         "id": 5 ,
@@ -52,7 +52,7 @@
         "description" : "Creamy, rich tomato-based curry with tender chicken pieces.",
         "time" : 30 ,
         "rating" : 3.5 , 
-        "count " : 655
+        "count" : 655
     },
     {
         "id": 6 ,
@@ -63,7 +63,7 @@
         "description" : "Creamy, rich tomato-based curry with tender chicken pieces.",
         "time" : 20 ,
         "rating" : 2.1 , 
-        "count " : 41
+        "count" : 41
     },
     {
         "id": 7 ,
@@ -74,7 +74,7 @@
         "description" : "Creamy, rich tomato-based curry with tender chicken pieces.",
         "time" : 30 ,
         "rating" : 3.5 , 
-        "count " : 211
+        "count" : 211
     },
     {
         "id": 8 ,
@@ -85,7 +85,7 @@
         "description" : "Creamy, rich tomato-based curry with tender chicken pieces.",
         "time" : 30 ,
         "rating" : 3.5 , 
-        "count " : 66
+        "count" : 66
     }
 ]
 }
