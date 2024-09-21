@@ -169,6 +169,88 @@
         "rating" : 2.6 , 
         "count" : 166
     }
+],
+    "snacks":[
+    {
+        "id": 1 ,
+        "item" : "Samosa",
+        "price" : 15 ,
+        "image" : "https://media.istockphoto.com/id/1324926723/photo/close-up-of-samosas-and-pakoras-two-delicious-east-indian-appetizers.jpg?s=612x612&w=0&k=20&c=dejPuuHOfROm7ITnwIeiMixprGPyp4UuSiQfhuU-FvU=",
+        "description" : " Deep-fried pastry filled with spiced potatoes or meat.",
+        "time" : 0 ,
+        "rating" : 4.2 , 
+        "count" : 655
+    },
+    {
+        "id": 2 ,
+        "item" : "Pakora",
+        "price" : 50 ,
+        "image" : "https://media.istockphoto.com/id/2134451098/photo/pakora-on-iftar-food-item.jpg?s=612x612&w=0&k=20&c=TQqlBGA6P-DFfR7bYGYMm7JehXuXj5ZxlnJZ22JBV4w=",
+        "description" : "Deep-fried fritters made with gram flour and vegetables or meat.",
+        "time" : 10 ,
+        "rating" : 3.8 , 
+        "count" : 589
+    },
+    {
+        "id": 3 ,
+        "item" : "Aloo Tikki",
+        "price" : 35 ,
+        "image" : "https://media.istockphoto.com/id/1052340884/photo/baked-potato-baked-potatoes-with-cheese-bacon-and-and-sweet-corn.jpg?s=612x612&w=0&k=20&c=BqEE5ap8F6HWXmTyzvsSC8i2Fq2kgytGg3e3z8TzWXU=",
+        "description" : " Spicy potato patties, often served with chutney.",
+        "time" : 15 ,
+        "rating" : 3.8 , 
+        "count" : 480
+    },
+    {
+        "id": 4 ,
+        "item" : "Pani Puri",
+        "price" : 20 ,
+        "image" : "https://media.istockphoto.com/id/1779752032/vector/savory-and-fresh-pani-puri-or-golgappa.jpg?s=612x612&w=0&k=20&c=aSG3vDbdXUUy7iehVtOXChHC2H6w4RLBTT9LeGhQnjo=",
+        "description" : "Crisp, hollow puris filled with tangy tamarind water and spiced fillings.",
+        "time" :10 ,
+        "rating" : 3.0 , 
+        "count" : 830
+    },
+    {
+        "id": 5 ,
+        "item" : "Bhel Puri",
+        "price" : 80 ,
+        "image" : "https://media.istockphoto.com/id/1308274550/photo/close-up-of-very-spicy-sweet-fatafat-bhel-mixture-indian-namkeen-on-a-ceramic-white-bowl.jpg?s=612x612&w=0&k=20&c=jWGBDIqxSd8SUiUNGeKorwEl9pxm0X77eSIaV35Q_dM=",
+        "description" : " A crunchy, tangy mixture of puffed rice, vegetables, and chutneys.",
+        "time" : 25 ,
+        "rating" : 4.5 , 
+        "count" : 251
+    },
+    {
+        "id": 6 ,
+        "item" : "Dhokla",
+        "price" : 99 ,
+        "image" : "https://media.istockphoto.com/id/2157592738/photo/mouthwatering-freshly-made-dhokla.jpg?s=612x612&w=0&k=20&c=HklPUmRH4LzH_xwMuznxnp5O3y7cCc-96d63lq13I78=",
+        "description" : " Steamed, savory cakes made from fermented chickpea flour.",
+        "time" : 10 ,
+        "rating" : 3.5 , 
+        "count" : 180
+    },
+    {
+        "id": 7 ,
+        "item" : "Kachori",
+        "price" : 35 ,
+        "image" : "https://media.istockphoto.com/id/1345910727/photo/kripik-tempeh-indonesian-crackers-food.jpg?s=612x612&w=0&k=20&c=wok1xwxW20UhHiuy5EYI1kI8V_5F8fa7Tnd5snZ7jPw=",
+        "description" : " Deep-fried pastry stuffed with spiced lentils or peas.",
+        "time" : 5 ,
+        "rating" : 3.4 , 
+        "count" : 142
+    },
+    {
+        "id": 8 ,
+        "item" : "Vada Pav",
+        "price" : 30 ,
+        "image" : "https://media.istockphoto.com/id/1574132838/vector/vada-pav-indian-food-cream-and-potato-cake-with-spices-in-a-bun-vector-graphic.jpg?s=612x612&w=0&k=20&c=nmr9chh5Vs2b48b4bh4lMzcl8t5rXm2VsJK1ihHeXh4=",
+        "description" : "A spiced potato fritter served in a bun, popular street food from Mumbai.",
+        "time" : 5 ,
+        "rating" : 4.3 , 
+        "count" : 661
+    }
 ]
 }
 
