@@ -1,7 +1,6 @@
 {"gravies" : [
     {
         "id": 1 ,
-        "category" : "Gravies",
         "item" : "Butter Chicken",
         "price" : 340 ,
         "image" : "https://media.istockphoto.com/id/1411524598/photo/chicken-tikka-masala-cooked-marinated-chicken-in-spiced-curry-sauce.jpg?s=612x612&w=0&k=20&c=3JLbYigOnTQm-4exK-7uKeI3YoR0g9HxAkjxmuVmfpY=",
@@ -12,7 +11,6 @@
     },
     {
         "id": 2 ,
-        "category" : "Gravies",
         "item" : "Panneer Butter Masala",
         "price" : 280 ,
         "image" : "https://media.istockphoto.com/id/969082396/photo/indian-food-or-indian-curry-in-a-copper-brass-serving-bowl.jpg?s=612x612&w=0&k=20&c=g4lELg1Qhe4bBfV8NVCRmkqQ2D9XhhVtifrnX44wtrA=",
@@ -23,7 +21,6 @@
     },
     {
         "id": 3 ,
-        "category" : "Gravies",
         "item" : "Rogan Josh",
         "price" : 480 ,
         "image" : "https://media.istockphoto.com/id/1438994226/photo/ratatouille-in-black-ceramic-bowl-isolated-on-white-from-above.jpg?s=612x612&w=0&k=20&c=xz7tKCf6tprFiyVVpbHeqLBamFGqCF54sd6H8zX3IoA=",
@@ -34,7 +31,6 @@
     },
     {
         "id": 4 ,
-        "category" : "Gravies",
         "item" : "Chole",
         "price" : 199 ,
         "image" : "https://media.istockphoto.com/id/1295943708/photo/chana-masala-or-chole-in-black-bowl-isolated-on-white-indian-cuisine-veg-chickpeas-curry-dish.jpg?s=612x612&w=0&k=20&c=ARHj4rxIWNGaxyxYDxgx_WSODqacOjPM5NJAmGmjYBY=",
@@ -45,7 +41,6 @@
     },
     {
         "id": 5 ,
-        "category" : "Gravies",
         "item" : "Dal Makhani",
         "price" : 199 ,
         "image" : "https://media.istockphoto.com/id/1170374685/photo/dal-makhani-at-dark-background.jpg?s=612x612&w=0&k=20&c=KltKWMH6fdzmG7bQzdAUygwriZb4qXMVmYnIqYHdH30=",
@@ -56,7 +51,6 @@
     },
     {
         "id": 6 ,
-        "category" : "Gravies",
         "item" : "Fish Curry",
         "price" : 260 ,
         "image" : "https://media.istockphoto.com/id/1295772358/photo/macher-jhol-in-black-bowl-isolated-on-white-indian-cuisine-bengali-fish-curry-asian-food-and.jpg?s=612x612&w=0&k=20&c=NM7YmLaUNmMM6FkV8A_DabUsQP_wOPQMMrUmONu3SKo=",
@@ -67,7 +61,6 @@
     },
     {
         "id": 7 ,
-        "category" : "Gravies",
         "item" : "Korma",
         "price" : 199 ,
         "image" : "https://media.istockphoto.com/id/1398903242/photo/chickpea-soup-with-pumpkin.jpg?s=612x612&w=0&k=20&c=aRMzfEBw-7QG1FuQq0ciebeg9qeDhDgn6Dy2lqws7Qk=",
@@ -78,7 +71,6 @@
     },
     {
         "id": 8 ,
-        "category" : "Gravies",
         "item" : "Aloo Ghobi",
         "price" : 230 ,
         "image" : "https://media.istockphoto.com/id/1196005816/photo/fried-cauliflower-with-potatoes.jpg?s=612x612&w=0&k=20&c=EGz0YJQqM-ClHEnck9l_H8o_bmVHaH6yvNwpZHG8AuQ=",
